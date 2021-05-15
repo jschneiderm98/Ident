@@ -16,11 +16,3 @@
 * [Docker](https://docs.docker.com/engine/install/ubuntu/)
 * [Docker-compose](https://docs.docker.com/compose/install/)
 * [Node](https://nodejs.org/en/)
-
-### Usage
-
-```
-docker-compose up
-```
-
-It may be necessary to run as a root user.

@@ -14,8 +14,7 @@ extra_css:
   - stylesheets/extra.css
 
 nav:
-  - Início: index.md
+  - Landing: index.md
   - Documentation: docs.md
   - Running the app: usage.md
-  - Backlog: product_backlog.md
   
