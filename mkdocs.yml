@@ -1,0 +1,21 @@
+site_name: " "
+theme:
+  favicon: logo.png
+  name: material
+  logo: logo.png
+  language: pt
+  features:
+    - navigation.instant
+  palette:
+    primary: green
+    accent: green
+
+extra_css:
+  - stylesheets/extra.css
+
+nav:
+  - Início: index.md
+  - Documentation: docs.md
+  - Running the app: usage.md
+  - Backlog: product_backlog.md
+  
