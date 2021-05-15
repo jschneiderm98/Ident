@@ -1,4 +1,4 @@
-# KMM-trial
+# Celcoin-trial
 
 ## Documentation
 
