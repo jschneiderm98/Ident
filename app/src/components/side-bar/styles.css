@@ -1,0 +1,18 @@
+.side-bar {
+  display: flex;
+  flex-direction: column;
+  width: 15vw;
+}
+
+.side-bar-logo-container {
+  height: 88px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.side-bar-logo-container>svg {
+  width: 11vw;
+  height: auto;
+}
