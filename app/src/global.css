@@ -2,9 +2,18 @@
 
 * {
   margin: 0;
+  padding: 0;
   font-family: 'Poppins', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   --background-color-1: rgba(16, 66, 221, 1);
   --background-color-2: rgba(36, 176, 168, 1);
+  --background-gray: rgba(239, 242, 249, 1);
+  --selected-side-bar: rgba(239, 242, 249, 1);
+  --selected-side-bar-text: rgba(48, 59, 91, 1);
+  --search-bar: rgba(245, 245, 245, 1);
+}
+
+ul {
+  list-style-type: none;
 }
