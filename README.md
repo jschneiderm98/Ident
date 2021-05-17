@@ -2,6 +2,8 @@
 
 ## Documentation
 
+https://jschneiderm98.github.io/Ident/
+
 ## System requirements 
 
  1. Install [Docker](https://docs.docker.com/engine/installation/)
@@ -11,7 +13,7 @@
 
  1. Clone the repository:
  ```
- git clone https://github.com/jschneiderm98/KMM.git
+ git clone https://github.com/jschneiderm98/Ident.git
  ```
  2. Create local network with docker:
  ```

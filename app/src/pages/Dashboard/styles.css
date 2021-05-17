@@ -1,0 +1,21 @@
+.dashboard-content {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.dashboard-section-title {
+  margin-top: 32px;
+  margin-bottom: 24px;
+  font-size: 1.125rem;
+  color: rgba(48, 59, 91, 1);
+}
+
+.dashboard-info {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.dashboard-info>* {
+  margin: 16px 16px;
+}
