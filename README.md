@@ -1,5 +1,11 @@
 # Celcoin-trial
 
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=jschneiderm98_KMM&metric=bugs)](https://sonarcloud.io/dashboard?id=jschneiderm98_KMM)[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=jschneiderm98_KMM&metric=code_smells)](https://sonarcloud.io/dashboard?id=jschneiderm98_KMM)[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=jschneiderm98_KMM&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=jschneiderm98_KMM)[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=jschneiderm98_KMM&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=jschneiderm98_KMM)[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=jschneiderm98_KMM&metric=security_rating)](https://sonarcloud.io/dashboard?id=jschneiderm98_KMM)[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=jschneiderm98_KMM&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=jschneiderm98_KMM)[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=jschneiderm98_KMM&metric=ncloc)](https://sonarcloud.io/dashboard?id=jschneiderm98_KMM)
+
+## Acesse o site aqui
+
+https://ident-project.netlify.app/
+
 ## Documentation
 
 https://jschneiderm98.github.io/Ident/
