@@ -16,7 +16,7 @@ const Dashboard = () => (
           <InfoCard PropIcon={PersonIcon} content="26" percentage={30} legend="Pacientes ativos" />
           <InfoCard PropIcon={TestTube} content="306" percentage={-10} legend="Testes realizados" />
           <InfoCard PropIcon={TestTube} content="139" percentage={30} legend="Testes concluídos" />
-          <InfoCard PropIcon={TestTube} content="11" percentage={-3} legend="Pacientes ativos" />
+          <InfoCard PropIcon={TestTube} content="11" percentage={-3} legend="Testes cancelados" />
         </div>
       </section>
       <section className="dashboard-history"><h1 className="dashboard-section-title">Histórico de atendimentos</h1></section>
