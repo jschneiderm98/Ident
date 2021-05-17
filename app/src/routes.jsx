@@ -1,12 +1,15 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import {
+  BrowserRouter, Switch, Route, Redirect,
+} from 'react-router-dom';
 
 import Dashboard from './pages/Dashboard';
 
 const DefaultRoutes = () => (
   <BrowserRouter>
     <Switch>
-      <Route exact path="/" component={Dashboard} />
+      <Redirect to="/dashboard" exact path="/" />
+      <Route exact path="/dashboard" component={Dashboard} />
     </Switch>
   </BrowserRouter>
 );
